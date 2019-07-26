@@ -1,0 +1,24 @@
+D:\DC Sems\Summer-19\NETD\LAB\Lab 5\Lab5\Lab5\bin\Debug\Lab5.exe.config
+D:\DC Sems\Summer-19\NETD\LAB\Lab 5\Lab5\Lab5\bin\Debug\Lab5.exe
+D:\DC Sems\Summer-19\NETD\LAB\Lab 5\Lab5\Lab5\bin\Debug\Lab5.pdb
+D:\DC Sems\Summer-19\NETD\LAB\Lab 5\Lab5\Lab5\bin\Debug\Lab5.xml
+D:\DC Sems\Summer-19\NETD\LAB\Lab 5\Lab5\Lab5\obj\Debug\Lab5.vbprojAssemblyReference.cache
+D:\DC Sems\Summer-19\NETD\LAB\Lab 5\Lab5\Lab5\obj\Debug\Lab5.frmTextEditor.resources
+D:\DC Sems\Summer-19\NETD\LAB\Lab 5\Lab5\Lab5\obj\Debug\Lab5.Resources.resources
+D:\DC Sems\Summer-19\NETD\LAB\Lab 5\Lab5\Lab5\obj\Debug\Lab5.vbproj.GenerateResource.cache
+D:\DC Sems\Summer-19\NETD\LAB\Lab 5\Lab5\Lab5\obj\Debug\Lab5.vbproj.CoreCompileInputs.cache
+D:\DC Sems\Summer-19\NETD\LAB\Lab 5\Lab5\Lab5\obj\Debug\Lab5.exe
+D:\DC Sems\Summer-19\NETD\LAB\Lab 5\Lab5\Lab5\obj\Debug\Lab5.xml
+D:\DC Sems\Summer-19\NETD\LAB\Lab 5\Lab5\Lab5\obj\Debug\Lab5.pdb
+C:\Users\Macintosh\Desktop\Lab5 2\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\Macintosh\Desktop\Lab5 2\Lab5\bin\Debug\Lab5.exe
+C:\Users\Macintosh\Desktop\Lab5 2\Lab5\bin\Debug\Lab5.pdb
+C:\Users\Macintosh\Desktop\Lab5 2\Lab5\bin\Debug\Lab5.xml
+C:\Users\Macintosh\Desktop\Lab5 2\Lab5\obj\Debug\Lab5.vbprojAssemblyReference.cache
+C:\Users\Macintosh\Desktop\Lab5 2\Lab5\obj\Debug\Lab5.frmTextEditor.resources
+C:\Users\Macintosh\Desktop\Lab5 2\Lab5\obj\Debug\Lab5.Resources.resources
+C:\Users\Macintosh\Desktop\Lab5 2\Lab5\obj\Debug\Lab5.vbproj.GenerateResource.cache
+C:\Users\Macintosh\Desktop\Lab5 2\Lab5\obj\Debug\Lab5.vbproj.CoreCompileInputs.cache
+C:\Users\Macintosh\Desktop\Lab5 2\Lab5\obj\Debug\Lab5.exe
+C:\Users\Macintosh\Desktop\Lab5 2\Lab5\obj\Debug\Lab5.xml
+C:\Users\Macintosh\Desktop\Lab5 2\Lab5\obj\Debug\Lab5.pdb
